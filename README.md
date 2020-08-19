@@ -1,6 +1,6 @@
 # Data export from Nf = 2+1+1 rho resonance
 
-This repository contains the center of mass energy levels determined from the scattering of two pions at *I* = 1. The ensembles are the 2+1+1 flavor twisted mass ensembles by the ETMC.
+This repository contains the center of mass energy levels determined from the scattering of two pions at *I* = 1. The ensembles are the 2+1+1 flavor twisted mass ensembles by the ETMC. If you are using this data please cite https://arxiv.org/abs/2006.13805.
 
 ## Data format
 
